@@ -22,4 +22,9 @@ public class DevOps_Test {
     public static void monitorProject() {
         System.out.println("Monitoring the project...");
     }
+
+    //Function to simulate a merge conflict
+    public static void buildProject() {
+        System.out.println("Simulating Conflict.....");
+    }
 }
