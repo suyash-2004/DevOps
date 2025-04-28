@@ -24,7 +24,7 @@ public class DevOps_Test {
     }
 
     //Function to simulate a merge conflict
-    public static void buildProject() {
+    public static void merge_conflict() {
         System.out.println("Simulating Conflict.....");
     }
 }
